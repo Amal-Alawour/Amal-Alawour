@@ -118,7 +118,7 @@ HTML, CSS, and JavaScript projects.
 GitHub:
 https://github.com/Amal-Alawour
 
-Email: Amal.alawour@gmai.com
+Email: Amal.alawour@gmail.com
 
 
 ---
