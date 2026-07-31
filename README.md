@@ -175,18 +175,6 @@ Currently working on professional projects including:
 
 ---------
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amal-Alawour&show_icons=true&theme=tokyonight" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Alawour&layout=compact&theme=tokyonight" width="48%" />
-
-</div>
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amal-Alawour)
 # 📫 Connect With Me
 
 📧 **Email**
