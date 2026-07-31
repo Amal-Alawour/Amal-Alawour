@@ -54,13 +54,26 @@ My experience combines technology, programming, automation, and data-driven solu
 # 🚀 Featured Projects
 
 ## 🧮 Calculator
-Python application practicing programming fundamentals, functions, and user input.
+A Python calculator application practicing programming fundamentals, functions, loops, and error handling.
+
+🔗 Project:
+https://github.com/Amal-Alawour/Python-Projects/tree/main/Beginner-Projects/Calculator
+
+---
 
 ## 🎓 Student Management System
-Python application using SQLite database with CRUD operations and student data management.
+A Python application using SQLite database to manage student records with CRUD operations and search functionality.
+
+🔗 Project:
+https://github.com/Amal-Alawour/Python-Projects/tree/main/Beginner-Projects/Student-Management-System
+
+---
 
 ## 📂 File Automation Tool
-Python automation tool that organizes files automatically based on file types.
+A Python automation tool that organizes files automatically based on their file extensions.
+
+🔗 Project:
+https://github.com/Amal-Alawour/Python-Projects/tree/main/Beginner-Projects/File-Automation
 
 ---
 
