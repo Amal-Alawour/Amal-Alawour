@@ -1,193 +1,96 @@
 # 👋 Hi, I'm Amal Alawour
 
-## IT Systems Specialist | Python Developer | Data Analytics Enthusiast
+## IT Systems Specialist | Python Developer | Digital Solutions | Data Analytics
 
-Welcome to my GitHub!
+Welcome to my GitHub profile!
 
-I'm an Information Technology professional with **10+ years of experience** in IT operations, systems administration, educational technology, technical support, and digital transformation.
+I am an Information Technology professional with 10+ years of experience in IT operations, systems administration, educational technology, technical support, and digital solutions.
 
-My passion is building practical solutions through **Python, Automation, Data Analytics, and Business Intelligence**. I'm currently expanding my expertise in **SQL, Power BI, and Cloud Computing** to develop data-driven solutions that improve business processes and decision-making.
+My experience combines technology, programming, automation, and data-driven solutions. I enjoy building practical applications that solve real-world problems and improve workflows.
 
 ---
 
 # 👩‍💻 About Me
 
 - 🎓 BSc in Information Technology & Computing
-- 💼 10+ years of professional experience in IT & Educational Technology
+- 💼 10+ years of experience in IT and Educational Technology
 - 🐍 Python Developer & Trainer
-- 💻 IT Systems Administration
-- 📊 Aspiring Data Analyst & BI Specialist
-- 🌐 Digital Solutions & LMS Administration
+- 🗄️ Database Management (SQLite, SQL)
+- 📊 Data Analytics & Business Intelligence Enthusiast
+- ⚙️ Automation and Digital Solutions
 - 📍 Jeddah, Saudi Arabia
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### 💻 Programming
-
+## Programming
 - Python
-- SQL
 - HTML
 - CSS
 - JavaScript
+- SQL
 
-# 🛠 Tech Stack
-
-## 🚀 Technologies & Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-### 📊 Data Analytics & BI
-
+## Data & Analytics
+- Data Analysis
 - Microsoft Excel
-- Microsoft Power BI *(Learning)*
-- Pandas *(Learning)*
-- NumPy *(Learning)*
-- Data Cleaning
-- Data Visualization
+- Power BI
 - Business Reporting
 
-### ⚙️ IT & Systems
-
-- IT Operations
+## IT & Systems
+- IT Support
 - Systems Administration
-- Technical Support
-- Help Desk
-- Troubleshooting
+- LMS Administration
 - WordPress
-- LMS Administration (Classera)
-- Microsoft 365
+- Git & GitHub
 
-### ☁️ Cloud
-
+## Cloud & Security
 - Cloud Computing Fundamentals
-- AWS Cloud Practitioner *(Learning)*
-
-### 🧰 Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-
----
-
-# 💼 Professional Experience
-
-✔ IT Systems Administration
-
-✔ Technical Support
-
-✔ Educational Technology
-
-✔ Python Programming & Training
-
-✔ Classera LMS Administration
-
-✔ WordPress Website Management
-
-✔ User Training & Documentation
-
-✔ Process Improvement
+- AWS Cloud (Learning)
+- Cybersecurity Fundamentals
 
 ---
 
 # 🚀 Featured Projects
 
+## 🧮 Calculator
+Python application practicing programming fundamentals, functions, and user input.
+
 ## 🎓 Student Management System
-
-Python application for managing student records using Object-Oriented Programming.
-
-**Skills:**
-Python • OOP • File Handling
-
----
+Python application using SQLite database with CRUD operations and student data management.
 
 ## 📂 File Automation Tool
-
-Python automation project for organizing and managing files efficiently.
-
-**Skills:**
-Python • Automation • File Management
+Python automation tool that organizes files automatically based on file types.
 
 ---
 
-## 🧮 Python Calculator
+# 📚 Currently Learning
 
-A simple calculator application demonstrating Python fundamentals.
-
-**Skills:**
-Python • Functions • User Input
-
----
-
-## 📊 Upcoming Data Analytics Projects
-
-Currently working on professional projects including:
-
-- Student Performance Analytics
-- Attendance Analysis Dashboard
-- Sales Dashboard
-- SQL Data Analysis
-- Power BI Business Dashboard
-
----
-
-# 🌱 Currently Learning
-
-- SQL for Data Analysis
-- Microsoft Power BI
 - Advanced Excel
+- Power BI Analytics
+- SQL for Data Analysis
 - AWS Cloud Practitioner
-- Business Intelligence
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Professional Goals
 
-- Build professional Data Analytics portfolio
-- Master SQL & Power BI
-- Earn AWS Cloud Practitioner Certification
-- Develop real-world Python automation projects
-- Contribute to Open Source projects
+- Build data-driven technology solutions
+- Develop Business Intelligence dashboards
+- Create Python automation projects
+- Combine IT experience with Data Analytics
+- Contribute to meaningful technology projects
 
 ---
-
-# 📜 Certifications & Training
-
-- Registered Programmer – Saudi Council of Engineers
-- Training of Trainers (TOT)
-- Project Management Training
-- Cloud Computing Fundamentals
-- Cybersecurity Fundamentals
-- Microsoft Power BI *(In Progress)*
-
----------
 
 # 📫 Connect With Me
 
-📧 **Email**
-
-**Amal.alawour@gmail.com**
-
-🐙 **GitHub**
-
+GitHub:
 https://github.com/Amal-Alawour
 
+Email:
+Amal.alawour@gmail.com
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
-
-I’m always learning, building, and exploring new technologies. Feel free to explore my repositories and follow my journey into Data Analytics, Business Intelligence, and Cloud Computing.
+⭐ Thank you for visiting my GitHub profile!
