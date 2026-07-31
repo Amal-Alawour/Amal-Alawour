@@ -186,7 +186,7 @@ Currently working on professional projects including:
 </div>
 
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amal-Alawour)
 # 📫 Connect With Me
 
 📧 **Email**
