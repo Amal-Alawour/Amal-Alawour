@@ -73,7 +73,7 @@ https://github.com/Amal-Alawour/Python-Projects/tree/main/Beginner-Projects/Stud
 A Python automation tool that organizes files automatically based on their file extensions.
 
 🔗 Project:
-https://github.com/Amal-Alawour/Python-Projects/tree/main/Beginner-Projects/File-Automation
+https://github.com/Amal-Alawour/Python-Projects/tree/main/Beginner-Projects/File-Automation-Tool
 
 ---
 
