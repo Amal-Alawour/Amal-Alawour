@@ -32,6 +32,23 @@ My passion is building practical solutions through **Python, Automation, Data An
 - CSS
 - JavaScript
 
+# 🛠 Tech Stack
+
+## 🚀 Technologies & Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
 ### 📊 Data Analytics & BI
 
 - Microsoft Excel
@@ -157,6 +174,17 @@ Currently working on professional projects including:
 - Microsoft Power BI *(In Progress)*
 
 ---
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amal-Alawour&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal-Alawour&layout=compact&theme=tokyonight" />
+
+</p>
 
 # 📫 Connect With Me
 
