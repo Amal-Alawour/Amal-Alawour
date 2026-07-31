@@ -1,126 +1,177 @@
 # 👋 Hi, I'm Amal Alawour
 
-## IT Systems Specialist | Python Developer | Digital Solutions | Data Analytics
+## IT Systems Specialist | Python Developer | Data Analytics Enthusiast
 
-Welcome to my GitHub profile!
+Welcome to my GitHub!
 
-I'm an Information Technology professional with **10+ years of experience** in IT operations, systems administration, educational technology, technical support, and digital solutions.
+I'm an Information Technology professional with **10+ years of experience** in IT operations, systems administration, educational technology, technical support, and digital transformation.
 
-My background combines technology, programming, and education. I have experience in managing digital platforms, supporting IT environments, delivering technical training, developing Python solutions, and improving technology workflows.
-
-I enjoy building practical solutions that combine programming, automation, data, and digital transformation to solve real-world problems.
+My passion is building practical solutions through **Python, Automation, Data Analytics, and Business Intelligence**. I'm currently expanding my expertise in **SQL, Power BI, and Cloud Computing** to develop data-driven solutions that improve business processes and decision-making.
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 - 🎓 BSc in Information Technology & Computing
-- 💼 10+ years of experience in IT and Educational Technology
-- 🐍 Python Trainer & Developer
+- 💼 10+ years of professional experience in IT & Educational Technology
+- 🐍 Python Developer & Trainer
 - 💻 IT Systems Administration
+- 📊 Aspiring Data Analyst & BI Specialist
 - 🌐 Digital Solutions & LMS Administration
 - 📍 Jeddah, Saudi Arabia
 
 ---
 
-## 💼 Professional Experience
+# 🛠 Tech Stack
 
-- IT Systems Administration
-- Digital Solutions Support
-- Classera LMS Administration
-- Python Programming & Training
-- Educational Technology
-- WordPress Website Management
-- Technical Support
-- User Training & Documentation
-- Process Improvement
+### 💻 Programming
 
----
-
-## 🛠 Technical Skills
-
-### Programming
 - Python
+- SQL
 - HTML
 - CSS
 - JavaScript
-- SQL
 
-### Data & Business Intelligence
-- Microsoft Power BI
+### 📊 Data Analytics & BI
+
 - Microsoft Excel
-- Data Analytics
+- Microsoft Power BI *(Learning)*
+- Pandas *(Learning)*
+- NumPy *(Learning)*
+- Data Cleaning
+- Data Visualization
 - Business Reporting
 
-### IT & Systems
+### ⚙️ IT & Systems
+
 - IT Operations
 - Systems Administration
+- Technical Support
 - Help Desk
 - Troubleshooting
 - WordPress
-- Git & GitHub
+- LMS Administration (Classera)
+- Microsoft 365
 
-### Cloud & Security
+### ☁️ Cloud
+
 - Cloud Computing Fundamentals
-- AWS Cloud (Learning)
-- Cybersecurity Fundamentals
+- AWS Cloud Practitioner *(Learning)*
+
+### 🧰 Tools
+
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
-## 📚 Certifications & Training
+# 💼 Professional Experience
 
+✔ IT Systems Administration
+
+✔ Technical Support
+
+✔ Educational Technology
+
+✔ Python Programming & Training
+
+✔ Classera LMS Administration
+
+✔ WordPress Website Management
+
+✔ User Training & Documentation
+
+✔ Process Improvement
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Student Management System
+
+Python application for managing student records using Object-Oriented Programming.
+
+**Skills:**
+Python • OOP • File Handling
+
+---
+
+## 📂 File Automation Tool
+
+Python automation project for organizing and managing files efficiently.
+
+**Skills:**
+Python • Automation • File Management
+
+---
+
+## 🧮 Python Calculator
+
+A simple calculator application demonstrating Python fundamentals.
+
+**Skills:**
+Python • Functions • User Input
+
+---
+
+## 📊 Upcoming Data Analytics Projects
+
+Currently working on professional projects including:
+
+- Student Performance Analytics
+- Attendance Analysis Dashboard
+- Sales Dashboard
+- SQL Data Analysis
+- Power BI Business Dashboard
+
+---
+
+# 🌱 Currently Learning
+
+- SQL for Data Analysis
 - Microsoft Power BI
-- Cloud Computing Fundamentals
-- Cybersecurity Fundamentals
+- Advanced Excel
+- AWS Cloud Practitioner
+- Business Intelligence
+
+---
+
+# 🎯 2026 Goals
+
+- Build professional Data Analytics portfolio
+- Master SQL & Power BI
+- Earn AWS Cloud Practitioner Certification
+- Develop real-world Python automation projects
+- Contribute to Open Source projects
+
+---
+
+# 📜 Certifications & Training
+
+- Registered Programmer – Saudi Council of Engineers
 - Training of Trainers (TOT)
 - Project Management Training
-- Registered Programmer – Saudi Council of Engineers
+- Cloud Computing Fundamentals
+- Cybersecurity Fundamentals
+- Microsoft Power BI *(In Progress)*
 
 ---
 
-## 🌱 Currently Learning
+# 📫 Connect With Me
 
-- Advanced Excel for Business
-- Power BI Analytics
-- SQL for Data Analysis
-- AWS Cloud Practitioner
+📧 **Email**
 
----
+**Amal.alawour@gmail.com**
 
-## 🚀 Featured Projects
+🐙 **GitHub**
 
-### 🐍 Python Projects
-Practical Python applications and programming exercises.
-
-### 📊 Data Analytics Portfolio
-Power BI dashboards, SQL projects, and data analysis solutions.
-
-### ☁️ Cloud Projects
-AWS cloud learning projects and practical implementations.
-
-### 🌐 Web Development
-HTML, CSS, and JavaScript projects.
-
----
-
-## 🎯 Professional Goals
-
-- Build real-world technology solutions
-- Develop Business Intelligence dashboards
-- Expand Cloud Computing expertise
-- Create Python automation projects
-- Contribute to Open Source
-
----
-
-## 📫 Connect With Me
-
-GitHub:
 https://github.com/Amal-Alawour
 
-Email: Amal.alawour@gmail.com
-
+Email: Amal.Alawour@gmail.com
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ **Thank you for visiting my GitHub profile!**
+
+I’m always learning, building, and exploring new technologies. Feel free to explore my repositories and follow my journey into Data Analytics, Business Intelligence, and Cloud Computing.
