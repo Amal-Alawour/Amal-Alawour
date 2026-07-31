@@ -197,7 +197,6 @@ Currently working on professional projects including:
 
 https://github.com/Amal-Alawour
 
-Email: Amal.Alawour@gmail.com
 
 ---
 
