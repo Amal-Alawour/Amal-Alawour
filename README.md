@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amal Alawour
 
-## IT Systems Specialist | Python Developer | Digital Solutions | Data Analytics
+## Power BI Developer | Data Analyst | IT Professional
 
 Welcome to my GitHub profile!
 
